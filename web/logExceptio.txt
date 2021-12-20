@@ -1,0 +1,2 @@
+
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where (Mail='carlos.furones')' at line 10.05691800 1581020306

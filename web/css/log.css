@@ -1,0 +1,96 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: ivory;
+  
+}
+main{
+  background-color: rgb(41, 136, 131);
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+body, header{
+  background-color:  rgb(25, 82, 79);
+}
+
+header{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+  h1, h2, form, input, .a{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} 
+
+#a{
+  border: none;
+  background-color: rgb(41, 136, 131);
+}
+
+.signup {
+  text-align: center;
+  height: 100px;
+  padding: 25px;
+}
+
+.signup:hover {
+  border: solid ivory 4px;
+}
+
+.signupform, .loginform {
+  display: none;
+}
+
+.shrink {
+  height: auto;
+  padding: 5px;
+}
+
+.shrink:hover {
+  padding: 1px;
+}
+
+input {
+  font-size: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 27.5px;
+  margin-left: 30px;
+  background-color: rgb(25, 82, 79);
+  border: 2px solid white;
+  padding: 14px 10px;
+  border-radius: 24px;
+  width: 200px;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
+}
+
+input[type=checkbox]{
+  width: 10px;
+}
+
+input[type=submit]{
+  background-color: #161616;
+}
+
+input[type=checkbox]{
+  width: 10px;
+}
+
+input[type=file]{
+  background-color: rgb(41, 136, 131);
+  border: none;
+  width: 80%;
+}
+
+.activo {
+  background-color: grey;
+}
+
+
+/*# sourceMappingURL=log.css.map */
